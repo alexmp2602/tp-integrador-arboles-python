@@ -30,12 +30,12 @@ Cada operación (inserción, recorrido, impresión rotada) fue implementada sin 
 
 ## ▶️ Video explicativo
 
-🔗 [Ver video en YouTube](https://www.youtube.com/watch?v=XXXXXXX) ← reemplazar con enlace real
+🔗 [Ver video en YouTube]()
 
 ## 🤝 Autores
 
 - **Alex Pereyra** – lexthus@gmail.com
-- **[Nombre del compañero]** – [Correo institucional]
+- **Lorenzo Ojeda** – lorenzomkt.0@gmail.com
 
 ## 📚 Bibliografía
 
