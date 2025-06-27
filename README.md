@@ -1,49 +1,42 @@
-# 🌳 Implementación de Árboles Binarios en Python
+# 🌳 Trabajo Integrador – Árboles Binarios en Python
 
-Este proyecto muestra cómo construir, recorrer y visualizar árboles binarios utilizando listas en Python. Está desarrollado como parte del Trabajo Integrador de la materia Programación I de la Tecnicatura Universitaria en Programación.
+Este repositorio contiene el **Trabajo Práctico Integrador de Programación I**, donde se implementa y explica la estructura de **árboles binarios** utilizando **listas en Python** con un enfoque educativo y funcional.
 
-## 📘 Descripción
+---
 
-El árbol binario se representa mediante listas anidadas del tipo:
+## 🎯 Objetivos
+- Comprender la estructura y lógica de los **árboles binarios**.
+- Implementar recorridos clásicos: Preorden, Inorden y Postorden.
+- Visualizar la estructura de forma jerárquica en consola.
+- Aplicar la recursividad de forma práctica en Python.
 
-```python
-[nodo, subárbol_izquierdo, subárbol_derecho]
-```
+---
 
-Cada operación (inserción, recorrido, impresión rotada) fue implementada sin utilizar clases u objetos, para enfocarse en la lógica estructural.
+## 🛠️ Tecnologías utilizadas
+- Python 3.x
+- Visual Studio Code / Entorno de desarrollo local
+- GitHub para control de versiones
 
-## 🛠️ Funcionalidades
+---
 
-- Crear árbol con nodo raíz.
-- Insertar nodos a izquierda y derecha.
-- Recorridos:
-  - Preorden
-  - Inorden
-  - Postorden
-- Visualización rotada en consola (90°).
+## 📂 Contenido del repositorio
 
-## 📂 Archivos
+- `arbol_binario.py` – Código fuente funcional y comentado.
+- `Informe_Trabajo_Integrador_Arboles.pdf` – Informe corregido con marco teórico, caso práctico, metodología, resultados y conclusiones.
+- `TP_Arboles_Alex_Lorenzo.pptx` – Presentación utilizada para explicar el tema.
 
-- `arbol_binario.py`: Código fuente funcional y comentado.
-- `Informe_Trabajo_Integrador_Arboles.docx`: Informe en formato Word.
-- Capturas de pantalla (ver carpeta `/capturas`).
+---
 
 ## ▶️ Video explicativo
 
-🔗 [Ver video en YouTube]()
+**Nota:** El video se encuentra pendiente de carga, ya que se está finalizando la grabación para incluir de forma clara todas las explicaciones y recorridos necesarios, y así representar el trabajo realizado en conjunto de la mejor manera posible.
 
-## 🤝 Autores
+---
 
-- **Alex Pereyra** – lexthus@gmail.com
-- **Lorenzo Ojeda** – lorenzomkt.0@gmail.com
+## 💻 Ejecución del código
 
-## 📚 Bibliografía
-
-- Cormen, T. et al. *Introduction to Algorithms*.
-- Python Docs: https://docs.python.org/3/
-- Visualgo.net: https://visualgo.net/en/bst
-- Miller, B. & Ranum, D. *Problem Solving with Algorithms and Data Structures using Python*.
-
-## 🧠 Reflexión final
-
-Este trabajo nos permitió aplicar los conceptos de estructuras de datos y recorrer paso a paso cómo representar un árbol binario de forma simple pero poderosa. Comprendimos sus recorridos, cómo implementar sus operaciones básicas, y reforzamos la lógica recursiva en Python.
+Para probar el proyecto en tu equipo:
+```bash
+git clone https://github.com/alexmp2602/tp-integrador-arboles-python
+cd tp-integrador-arboles-python
+python arbol_binario.py
